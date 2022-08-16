@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tomttth
-- 👀 I’m interested in Web Development and Software Engineering.
+- 👀 I’m interested Software Engineering.
 - 🌱 I’m currently learning Javascript,React and other web related technologies
-- 💞️ I’m looking to collaborate on web Development projects
+- 💞️ I’m looking to collaborat on Software Engineering projects
 - 📫 How to reach me ...
 
 <!---
